@@ -1,0 +1,7 @@
+pandas==0.25.3
+pmdarima==1.5.3
+fbprophet==0.6
+falcon==2.0.0
+pymongo==3.10.1
+gunicorn==19.7.1
+pytest==5.4.1
